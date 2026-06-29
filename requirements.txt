@@ -1,0 +1,7 @@
+opencv-python
+numpy
+SpeechRecognition
+pyttsx3
+sounddevice
+scipy
+Pillow
